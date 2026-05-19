@@ -1,0 +1,30 @@
+END USER LICENSE AGREEMENT (EULA) for ScreenSort
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+1. LICENSE GRANT
+This software is licensed, not sold. Subject to the terms of this Agreement, the Developer ("Jit DebNath") grants you a limited, non-exclusive, non-transferable license to use ScreenSort (the "Software").
+
+2. PERMITTED USE (FREE FOR STUDENTS/PERSONAL USE)
+The Software is provided FREE OF CHARGE strictly for personal, educational, and student use. You may install and use the Software on your personal devices for these non-commercial purposes. The Developer reserves the right to modify this licensing model, including transitioning the Software (or specific features) to a paid or commercial model for any or all users at any time in the future.
+
+3. COMMERCIAL USE RESTRICTION
+Any commercial use of this Software is STRICTLY PROHIBITED under this free license. If you intend to use the Software for commercial purposes, business operations, or any revenue-generating activities, you must contact the Developer to negotiate a separate commercial license.
+
+4. INTELLECTUAL PROPERTY & RESTRICTIONS
+The Software, including its code, design, UI/UX structure, and original concepts, is the exclusive intellectual property of the Developer and is protected by copyright laws. 
+You are explicitly prohibited from:
+a) Copying, distributing, or sublicensing the Software.
+b) Reverse engineering, decompiling, disassembling, or attempting to derive the source code of the Software.
+c) Creating derivative works or "clones" based on the Software for distribution.
+d) Removing or altering any proprietary notices, copyright, or trademarks within the Software.
+Any attempt to reproduce the Software's core functionality or design to create a competing product is a direct violation of this intellectual property agreement.
+
+5. TERMS OF SERVICE & PRIVACY POLICY
+- Privacy: The Software stores your screenshots and metadata locally on your device. The Developer does not secretly collect, harvest, sell, or distribute your personal screenshots. Any cloud synchronization (e.g., Google Drive) is routed securely to your own personal storage.
+- User Responsibility: You are solely responsible for the content you capture and organize using this Software. 
+
+6. DISCLAIMER OF WARRANTY & LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE.
+
+By selecting "I accept the agreement" and installing ScreenSort, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA.
